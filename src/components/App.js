@@ -5,7 +5,7 @@ const App = () => {
     <div id="app">
       <div id="wrapper">
         <h1 className="glitch" data-text="Error 404: NOMBRE NOT FOUND">Error 404: NOMBRE NOT FOUND</h1>
-        <span class="sub">PRUEBA IC</span>
+        <span class="sub">PRUEBA</span>
       </div>
     </div>   
   );
